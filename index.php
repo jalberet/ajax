@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Guardar datos de formulario con AJAX</title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" >      
+        <link rel="stylesheet" href="vendor/twbs/bootstrap/dist/css/bootstrap.min.css" >      
     </head>
     <body>
         <div class="container">

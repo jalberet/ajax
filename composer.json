@@ -1,0 +1,20 @@
+{
+  "name": "jalberet/ajax",
+    "description": "This is a demo package to use the API of Github.",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+      {
+          "name": "Juan Alberto Esteban Pablo",
+          "email": "name@mail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      	"php": ">=5.6",
+    	"twbs/bootstrap": "4.6.2"
+    },
+	"require-dev": {
+	    "codeception/codeception": "4.2.x-dev"
+	}
+}
