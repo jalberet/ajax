@@ -112,6 +112,10 @@
                 });
             }
 
+            /**
+             * Función para eliminar un registro de tabla pais
+             * */
+
             function delete_pais(id){
                 $.ajax({
                     type:'post',
