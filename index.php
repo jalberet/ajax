@@ -69,7 +69,7 @@
                     success: function(response)
                     {
                         console.log('Datos guardado correctamente');
-                        //LIMPIA EL FORMULARIO
+                        //LIMPIA EL FORMULARIO CON RESET
                         $('#form_guardar')[0].reset();
                         get_paises();
                     },
