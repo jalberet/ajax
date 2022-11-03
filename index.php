@@ -112,6 +112,10 @@
                 });
             }
 
+            /**
+             * Función para eliminar un registro de tabla pais
+             * */
+
             function delete_pais(id){
                 $.ajax({
                     type:'post',
@@ -131,6 +135,10 @@
                     }
                 });
             }
+            /**
+             * Este comentario se subio directo a la rama de main.
+             * Other change
+             * */
         </script>
     </body>
 </html>
