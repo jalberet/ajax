@@ -113,7 +113,7 @@
             }
 
             /**
-             * Función para eliminar un registro de tabla pais
+             * Función para eliminar un registro de tabla pais editado xD xD
              * */
 
             function delete_pais(id){
