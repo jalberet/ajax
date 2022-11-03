@@ -113,12 +113,7 @@
             }
 
             /**
-             * Función para eliminar un registro de tabla país editado xD xD
-             * Esto es otro comentario
-             * Otro comentario desde main
-             * Otro comentario desde develop
-             * Otro más desde Main
-             * Otro más desde develop
+             * Función para eliminar un registro de tabla pais
              * */
 
             function delete_pais(id){
@@ -140,11 +135,6 @@
                     }
                 });
             }
-            /**
-             * Este comentario se subio directo a la rama de main.
-             * Other change
-             * Acá otro cambio desde develop
-             * */
         </script>
     </body>
 </html>
