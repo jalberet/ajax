@@ -113,9 +113,10 @@
             }
 
             /**
-             * Función para eliminar un registro de tabla pais editado xD xD
+             * Función para eliminar un registro de tabla país editado xD xD
              * Esto es otro comentario
              * Otro comentario desde main
+             * Otro comentario desde develop
              * */
 
             function delete_pais(id){
